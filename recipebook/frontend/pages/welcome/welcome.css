@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Jersey 25', sans-serif;
+  font-size: 100px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
