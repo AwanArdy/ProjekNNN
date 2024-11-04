@@ -1,5 +1,6 @@
 import { fetchRecipes } from "./api/recipes";
-import { renderRecipeList } from "./components/RecipeList/RecipeList";
+import renderRecipeList from "./components/RecipeList/RecipeList";
+
 
 document.addEventListener('DOMContentLoaded', async () => {
   const recipeContainer = document.getElementById('recipe-list');
